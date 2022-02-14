@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brownian motion 2d", "brownian motion 2d\brownian motion 2d.csproj", "{1088C650-4311-449F-B12A-99A94C39506C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1088C650-4311-449F-B12A-99A94C39506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1088C650-4311-449F-B12A-99A94C39506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1088C650-4311-449F-B12A-99A94C39506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1088C650-4311-449F-B12A-99A94C39506C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFFB013C-9436-47A0-AF2E-B8E95E6A642A}
+	EndGlobalSection
+EndGlobal
